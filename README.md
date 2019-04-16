@@ -23,3 +23,4 @@ Code | Course Title | Rating
 CSCI3250 | Computers and Society | Excellent!
 CSCI3251 | Engineering Practicum | Very Good!
 
+![Commands](/screencapture.jpg)
